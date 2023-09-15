@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/td_mndb/static/css/main.270aa7ff.css",
+    "main.js": "/td_mndb/static/js/main.229e7d1f.js",
+    "index.html": "/td_mndb/index.html",
+    "static/media/check.svg": "/td_mndb/static/media/check.2b19145c4f914f385316.svg",
+    "main.270aa7ff.css.map": "/td_mndb/static/css/main.270aa7ff.css.map",
+    "main.229e7d1f.js.map": "/td_mndb/static/js/main.229e7d1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.270aa7ff.css",
+    "static/js/main.229e7d1f.js"
+  ]
+}
